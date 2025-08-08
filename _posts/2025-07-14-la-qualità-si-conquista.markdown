@@ -12,13 +12,13 @@ Trovare la propria identità nella scrittura non sarà un processo rapido e semp
 
 ## Ma tu chi sei?
 
-![image info](/images/gifs/2025-07-14-la-qualità-si-conquista/who_are_u.gif )
+![ma chi sei](https://media1.tenor.com/m/4k_DMGRyu6wAAAAC/who-are-you-huh.gif)
 
 "Perfetto un altro esaltato che crede di essere uno scrittore" potrebbe essere il vostro primo pensiero...e avete totalmente ragione. Sono un ingengere informatico, ormai non più tanto giovane, che da tempo sente la necessità di scrivere. Sono consapevole di essere Pippa, infatti non credo di essere in grado di tenere uno stile di scrittura accattivante (cioè, son passato in questo paragrafo da una pomposa 3° persona ad un flusso di coscenza...). E questo a me non interessa.
 
 ## Giusto un paio di regole
 
-![image info](/images/gifs/2025-07-14-la-qualità-si-conquista/genee_count.gif)
+![un paio di postille](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWkxY3U0dGFiZHNlaHdydjRwaTJtdGNlcnA0OHJlMHFmOGtpMzh0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqx28Oh5dZz7W/giphy.gif)
 
 
 Un po' come un dichiarazione (non richiesta) mi metto qualche regola:
