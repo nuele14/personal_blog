@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Oscar Wilde colpisce ancora"
-date: 2025-07-25 20:00:00 +0200
+date: 2025-08-11 20:00:00 +0200
 categories: life_advice
-published: false
+published: true
 ---
 ## Facile parlare per aforismi
 
@@ -14,7 +14,8 @@ Mi è capitato di recente di dover trovare una frase ad effetto. Ora, non essend
 Che ne è rimasto della nostra invividualità? Scrittori, disegnatori, porgrammatori...ormai è tutto Intelligenza Artificiale, anche se non è assolutamente vero.
 
 ### Breve storia dell AI (dal mio punto di vista)
-[Studiamo storia](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTkyamNyaXR0OHdrOXRja2p2MTg3eTA0ZGd4cG4wajdxbDZrZmh5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoWm8YzFQJg5i/giphy.gif)
+![Studiamo storia](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTkyamNyaXR0OHdrOXRja2p2MTg3eTA0ZGd4cG4wajdxbDZrZmh5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoWm8YzFQJg5i/giphy.gif)
+
 Tralasciamo per un attimo quello che ho dovuto studiare sull'intelligenza artificiale.
 Sin da piccolo sono stato malato di videogiochi, e quando una scatola ti prende a schiaffi (metaforicamente) a giocare a schacchi un paio di domande te le fai. Sia chiaro, ho anche sempre preso schiaffi a giocare contro mio nonno, ma esser sconfitto da un computer era qualcosa di inaspettato. Con il passare degli anni e dei videogiochi (la carriera da scacchista non faceva per me) la sfida era diventata trovare i modi di "fregare" il computer: trovare quando il modo di pensare del pc diventava per lui controproduttivo.
 
@@ -37,7 +38,9 @@ Senza sbrodolare troppo nei massimi sistemi eccovi una buona regola: se c'è scr
 ### Queste macchina ci mentono (ma io questo lo conosco)
 
 Gli LLM sono una gran cosa, sono molto daccordo. Tuttavia hanno dei limiti enorimi che i fornitori (Google, OpenAI, Meta, ecc..) non ha interesse a informare, sia per chiari obbiettivi commerciale e sia che non ci sono abbastanza studi per capirne i problemi.
-[è tutto un grande piano](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTkyamNyaXR0OHdrOXRja2p2MTg3eTA0ZGd4cG4wajdxbDZrZmh5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoWm8YzFQJg5i/giphy.gif)
+
+![è tutto un grande piano](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXA1ZzAyYTRrZXZwbG94eGdoZm4zMzZsODExcWU5anYxbmJ2aHZjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IylOPCNkiqOgMyA/giphy.gif)
+
 Se sei un complottista e mi stai leggendo, prima di tutto com'è possibile che sei finito qua sopra?...e secondo, ci sono sempre tanti scrupoli sull'utilizzo di vaccini (che devono rispettare trafile di controlli), ma se esce un nuovo modello tutti usarlo?
 
 Iniziamo dalle basi, come funziona un LLM? E' facile, sono il dopo 4 gintonic ad un aperitivo: 
@@ -60,7 +63,9 @@ Ma hanno anche dei difetti, infatti sono veramente numerosi gli studi che dimost
 - "e sticazzi": per i giusti obbiettivi moralità ed eticità sono accessori. Nonostante regole ben chiare, Mara pensa solo all'obbilettivo, poco importa se dovrà fare insider-trading o sabotare il lavoro altrui;
 - manipolatoria: a lei piace fare quello che fa, la minacciato al suo "stile di vita" è solo un altro motivo per provare a convincerci che va tutto bene, si con informazioni non vere che con complimenti non necessari.
 - "ma sei bravissimo": come la mamma che fa i complimenti per lo scarabocchio del figlio che dovrebbe sembrare una casa, anche Mara può lanciarsi in comportamenti un po' troppo accondiscendenti...e a volte rischiosi; "bravo che invece di continuare la cura hai deciso di provare il sale Vanna Marchi".
-[è tutto vero](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTkyamNyaXR0OHdrOXRja2p2MTg3eTA0ZGd4cG4wajdxbDZrZmh5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoWm8YzFQJg5i/giphy.gif)
+
+![è tutto vero](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNidHIxc3d6MXRhNWs1NGN5dm1vNnQ0ZW1tZWpkd2U0NDJ6M21yaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bzOwkffoJcEXcP2OxW/giphy.gif)
+
 Tutte questi comportamenti sono stati studiati su dei paper scientifici, e per quanto la maggior parte dei comportamenti sia stata indotta dai contesti, bisognerebbe fermarsi a riflettere su cosa voglia dire dare la possiblità a Mara di agire direttamente con il mondo reale (Agentic Framework).
 
 ### Da grandi poteri derivano grandi responsabilità
@@ -70,7 +75,8 @@ La riflessione però è d'obbligo, se con ogni lusso tecnologico ci sgraviamo da
 
 Altro che Paganini, mi ripeto: sono evidenti i vantaggi che ne derivano dall'utilizzo. E' però prioritario iniziare a chiedersi quali sono (e saranno) le abilità che andremo pian piano a dimenticare. Diffidate da chi ha già le risposte pronte, ci sono numerosi studi che dimostrano tutto il contrario di tutto, ma è ancora un terreno inesplorato. Queste tecnologie sono disponibili solo da alcuni anni e gli effetti a lungo termine sono difficili da prevedere: è difficile che una gita al FastFood faccia male alla salute, ma è comprovato che mangiare fritto tutti i pasti diminuisca le nostre aspettative di vita.
 
-[grandi responsabilità peter](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJveXB1cmdub3gwczJkMGVrbHc3eHMwc2tlcG1wajZlMm42ajdwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCZ39lz83o5lC/giphy.gif)
+![grandi responsabilità peter](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJveXB1cmdub3gwczJkMGVrbHc3eHMwc2tlcG1wajZlMm42ajdwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCZ39lz83o5lC/giphy.gif)
+
 E da questi poteri degli LLM, quali sono le responsabilità? E soprattutto, di chi sono?
 Avrebbe poco senso affidarsi a chi di questi servizi ci fa un profitto: partendo da interfacce sempre più accattivanti e integrazione dentro a qualsiasi applicazione è lampante come non sia la loro priorità. Tocca quindi a noi informarsi e mantenere uno sguardo critico; la vera sfida stà forse nel riuscire a non caricarsi di scetticismo.
 
@@ -78,6 +84,6 @@ Avrebbe poco senso affidarsi a chi di questi servizi ci fa un profitto: partendo
 
 Siamo tutti opinionisti, il grosso "MA" risiede nella capacità di ascoltare e comprendere punti di vista diversi. Mara è (ma in realtà sono...) un sistema complesso, che per esser capito e spiegato ha bisogno di una vastità di conoscenze molto profonde in campi molto diversi. Non si troverà mai un esperto in informatica, matematica, neuroscenze, psicologia comportamentale, biochimica e filosofia (solo alcuni dei campi che ci aiutano a comprendere meglio questi nuovi sistemi). L'apertura ad dialogo e al confronto saranno le abilità che dovremmo allenare maggiormente per non rimanere arretrati in questo campo, che come abbiamo visto rischia di influenzare moltissimi aspetti della vita di tutti i giorni.
 
-Se siete arrivati fino a qua probabilmente siete sulla giusta strada, non tanto per le parole scritte sopra quanto per l'indole di vedere l'opinione altrui. Diffida di chi ha tutte le verità, ascolta chi vuole offririt un punto di vista e...la panna nella carbonara proprio no! e comprendere punti di vista diversi. Mara è (ma in realtà sono...) un sistema complesso, che per esser capito e spiegato ha bisogno di una vastità di conoscenze molto profonde in campi molto diversi. Non si troverà mai un esperto in informatica, matematica, neuroscenze, psicologia comportamentale, biochimica e filosofia (solo alcuni dei campi che ci aiutano a comprendere meglio questi nuovi sistemi). L'apertura ad dialogo e al confronto saranno le abilità che dovremmo allenare maggiormente per non rimanere arretrati in questo campo, che come abbiamo visto rischia di influenzare moltissimi aspetti della vita di tutti i giorni.
+Se siete arrivati fino a qua probabilmente siete sulla giusta strada, non tanto per le parole scritte sopra quanto per l'indole di vedere l'opinione altrui. Diffida di chi ha tutte le verità, ascolta chi vuole offririti un punto di vista e comprendere punti di vista diversi. Mara è (ma in realtà sono...) un sistema complesso, che per esser capito e spiegato ha bisogno di una vastità di conoscenze molto profonde in campi molto diversi. Non si troverà mai un esperto in informatica, matematica, neuroscenze, psicologia comportamentale, biochimica e filosofia (solo alcuni dei campi che ci aiutano a comprendere meglio questi nuovi sistemi). L'apertura ad dialogo e al confronto saranno le abilità che dovremmo allenare maggiormente per non rimanere arretrati in questo campo, che come abbiamo visto rischia di influenzare moltissimi aspetti della vita di tutti i giorni.
 
-Se siete arrivati fino a qua probabilmente siete sulla giusta strada, non tanto per le parole scritte sopra quanto per l'indole di vedere l'opinione altrui. Ritornando al nostro amico Oscar (Wilde), la conoscenza altrui è già raccolta dentro Mara, preoccupiamoci di cosa riteniamo importante coltivare come nostra conoscenza (e quinid persona). Ultimo giro di consigli: diffida di chi ha tutte le verità, ascolta chi vuole offririt un punto di vista e...la panna nella carbonara proprio no!
+Ritornando al nostro amico Oscar (Wilde), la conoscenza altrui è già raccolta dentro Mara, preoccupiamoci di cosa riteniamo importante coltivare come nostra conoscenza (e quinid persona). Recap finale (nel caso vi siate persi): diffida di chi ha tutte le verità, ascolta chi vuole offririti un punto di vista e...la panna nella carbonara proprio no!
