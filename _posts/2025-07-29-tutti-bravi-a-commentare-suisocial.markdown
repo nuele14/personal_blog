@@ -23,7 +23,7 @@ Andiamo un po' nel tecnico:
 Come buona parte dei contenuti tecnici, prendo spunto da chi ha una conoscenza che trascende la mia. Questo articolo è la mia rielaborazione di un post di **Antirez** [Writing system software: code comments.](https://antirez.com/news/124). Se leggendolo trovate molte analogie è perchè l'articolo originale dice tante verità (e vi invito ad andarlo a leggere) e perchè mi trovo daccordo. -fine disclaimer sul possibile plagio-
 
 ### Function comments
-Si potrebbero chiamare anche "Documentation commets" e sono indicazioni sul funzionamento del nostro blocco di codice. Così facendo altri programmatori potranno trattare come una black box le nostre funzioni, senza andare a leggere come funziona effettivamente l'implementazione. Come quando selezioni il programma della lavatrice, non ti poni domande su che tipo di ciclo di lavaggio faccia, se hai selezionato "delicati" speri solo che dopo 2h il tuo maglioncino preferito esca lindo e non in versione mignon.
+Si potrebbero chiamare anche "Documentation commets" e sono indicazioni sul funzionamento del nostro blocco di codice. Così facendo altri programmatori potranno trattare come una black box le nostre funzioni, senza andare a leggere come funziona effettivamente l'implementazione. Se l'implementazione dovesse cambiare è buona norma aggiornare le informazioni. 
 ### Design comments
 ### Why comments
 ### Teacher comments
