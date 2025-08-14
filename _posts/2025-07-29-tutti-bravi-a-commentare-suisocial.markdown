@@ -3,7 +3,7 @@ layout: post
 title: "Tutti bravi a commentare su social"
 date: 2025-07-29 20:00:00 +0200
 categories: develop
-published: true 
+published: false
 ---
 
 ## L'utilità di un commento
@@ -20,7 +20,7 @@ Andiamo un po' nel tecnico:
 2. Dovrebbero spiegare l'architettura generale e non linea per linea cosa fa il codice (lo si può intuire dal leggere...se è scritto bene);
 3. Solo i "sith" vivono di assoluti, motivo per cui esistono casistiche per cui ha senso che i commenti spieghino cosa succede e lo facciano riga per riga.
 ## La lista del maestro
-Come buona parte dei contenuti tecnici, prendo spunto da chi ha una conoscenza che trascende la mia. Questo articolo è la mia rielaborazione di un post di **Antirez** [Writing system software: code comments.](https://antirez.com/news/124). Se leggendolo trovate molte analogie è perchè l'articolo originale dice tante verità (e vi invito ad andarlo a leggere) e perchè mi trovo daccordo. -fine disclaimer sul possibile plagio-
+Come buona parte dei contenuti tecnici, prendo spunto da chi ha una conoscenza che trascende la mia. Questo articolo è la mia rielaborazione di un post di **Antirez** {% cite antirezWritingSystem %}. Se leggendolo trovate molte analogie è perchè l'articolo originale dice tante verità (e vi invito ad andarlo a leggere) e perchè mi trovo daccordo. -fine disclaimer sul possibile plagio-
 
 ### Function comments
 Si potrebbero chiamare anche "Documentation commets" e sono indicazioni sul funzionamento del nostro blocco di codice. Così facendo altri programmatori potranno trattare come una black box le nostre funzioni, senza andare a leggere come funziona effettivamente l'implementazione. Se l'implementazione dovesse cambiare è buona norma aggiornare le informazioni. 
@@ -32,7 +32,6 @@ Si potrebbero chiamare anche "Documentation commets" e sono indicazioni sul funz
 ### Trivial comments
 ### Debt comments
 ### Backup comments
-{% cite book %}
 
 -- References
 
