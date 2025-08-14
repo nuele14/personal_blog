@@ -3,7 +3,7 @@ layout: post
 title: "Tutti bravi a commentare su social"
 date: 2025-07-29 20:00:00 +0200
 categories: develop
-published: false
+published: true 
 ---
 
 ## L'utilità di un commento
@@ -32,3 +32,8 @@ Si potrebbero chiamare anche "Documentation commets" e sono indicazioni sul funz
 ### Trivial comments
 ### Debt comments
 ### Backup comments
+{% cite book %}
+
+-- References
+
+{% bibliography --cite %}
